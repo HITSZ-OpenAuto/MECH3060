@@ -1,0 +1,30 @@
+# 提交者信息中包含的年份（如 2025.12）无法被标准字段捕获，已被忽略。
+# 教师评价中提到的“若干（不算分？）的小测”与徽章所示成绩构成可能存在出入，此处以徽章为准。
+course_name: "机器人学基础"
+course_code: "MECH3060"
+notices: ""
+grading:
+  "0000": "作业(25%) + 实验(15%) + 期末考试(60%)"
+teachers:
+  - name: "徐文福"
+    reviews: []
+  - name: "袁晗"
+    reviews: []
+  - name: "闫磊"
+    reviews:
+      - content: "讲课比较有活力，会结合自己的研究/业界近况讲解一些知识点的意义。没有考勤，但有若干（不算分？）的小测。"
+        submitter:
+          name: "IcyDesert"
+          link: "https://github.com/IcyDesert"
+textbooks: []
+online_resources: []
+about_course: []
+about_exam:
+  - content: "半开卷，最多可带一张 A4 纸。虽然作业的计算量非常大，但考试并不会有那么多数值计算，还是以参数形式推导居多。"
+    submitter:
+      name: "IcyDesert"
+      link: "https://github.com/IcyDesert"
+study_advice: []
+schedule: []
+related_links: []
+misc: []
