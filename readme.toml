@@ -13,9 +13,9 @@ name = "袁晗"
 [[lecturers]]
 name = "闫磊"
 
-  [[lecturers.reviews]]
-  content = "授课风格：讲课比较有活力，会结合自己的研究/业界近况讲解一些知识点的意义。没有考勤，但有若干（不算分？）的小测。"
-  author = { name = "IcyDesert", link = "https://github.com/IcyDesert", date = "2025-12" }
+[[lecturers.reviews]]
+content = "授课风格：讲课比较有活力，会结合自己的研究/业界近况讲解一些知识点的意义。没有考勤，但有若干（不算分？）的小测。"
+author = { name = "IcyDesert", link = "https://github.com/IcyDesert", date = "2025-12" }
 
 
 [[sections]]
