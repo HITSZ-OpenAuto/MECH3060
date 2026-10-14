@@ -1,0 +1,97 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 518,
+    "time": 1766147351,
+    "hash": "a77ba55cc18c5018dfea2e0024e5fd0825e0ce6b"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1766147351,
+    "hash": "a77ba55cc18c5018dfea2e0024e5fd0825e0ce6b"
+  },
+  "README.md": {
+    "size": 791,
+    "time": 1791961663,
+    "hash": "545a9412891f0f0370a7106fe6a41659afc394aa"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1766147351,
+    "hash": "a77ba55cc18c5018dfea2e0024e5fd0825e0ce6b"
+  },
+  "assignments/2025春答案/2025春第2次作业.docx": {
+    "size": 204876,
+    "time": 1768114422,
+    "hash": "0f82503e15f612c13b1bea108599745c5c04362b"
+  },
+  "assignments/2025春答案/2025春第3次作业.docx": {
+    "size": 260204,
+    "time": 1768114422,
+    "hash": "0f82503e15f612c13b1bea108599745c5c04362b"
+  },
+  "assignments/2025春答案/2025春第4次作业.docx": {
+    "size": 431437,
+    "time": 1768114422,
+    "hash": "0f82503e15f612c13b1bea108599745c5c04362b"
+  },
+  "assignments/2025春答案/2025春第5次作业.docx": {
+    "size": 230760,
+    "time": 1768114422,
+    "hash": "0f82503e15f612c13b1bea108599745c5c04362b"
+  },
+  "assignments/2025秋题目+答案/2025秋机器人学作业答案合集-冰原沙漠气候.pdf": {
+    "size": 6385476,
+    "time": 1768115038,
+    "hash": "f5e277cb99b3bd191126bf8f71dbf0c3803b446b"
+  },
+  "assignments/2025秋题目+答案/第1次作业.docx": {
+    "size": 96628,
+    "time": 1768115038,
+    "hash": "f5e277cb99b3bd191126bf8f71dbf0c3803b446b"
+  },
+  "assignments/2025秋题目+答案/第2次作业.docx": {
+    "size": 163798,
+    "time": 1768115038,
+    "hash": "f5e277cb99b3bd191126bf8f71dbf0c3803b446b"
+  },
+  "assignments/2025秋题目+答案/第3次作业.docx": {
+    "size": 260507,
+    "time": 1768115038,
+    "hash": "f5e277cb99b3bd191126bf8f71dbf0c3803b446b"
+  },
+  "assignments/2025秋题目+答案/第4次作业.docx": {
+    "size": 33875,
+    "time": 1768115038,
+    "hash": "f5e277cb99b3bd191126bf8f71dbf0c3803b446b"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1766147351,
+    "hash": "a77ba55cc18c5018dfea2e0024e5fd0825e0ce6b"
+  },
+  "exams/2025秋期末考试回忆版-冰原沙漠气候.pdf": {
+    "size": 145990,
+    "time": 1768114422,
+    "hash": "0f82503e15f612c13b1bea108599745c5c04362b"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1766147351,
+    "hash": "a77ba55cc18c5018dfea2e0024e5fd0825e0ce6b"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1766147351,
+    "hash": "a77ba55cc18c5018dfea2e0024e5fd0825e0ce6b"
+  },
+  "readme.toml": {
+    "size": 865,
+    "time": 1773428243,
+    "hash": "512cf5a5b4cfbfb839beea17e95884ef46c0981c"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1766147351,
+    "hash": "a77ba55cc18c5018dfea2e0024e5fd0825e0ce6b"
+  }
+}
